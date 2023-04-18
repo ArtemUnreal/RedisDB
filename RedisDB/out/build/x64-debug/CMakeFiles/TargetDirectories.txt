@@ -1,0 +1,3 @@
+C:/Users/chief/source/repos/RedisDB/out/build/x64-debug/CMakeFiles/RedisDB.dir
+C:/Users/chief/source/repos/RedisDB/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/chief/source/repos/RedisDB/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
